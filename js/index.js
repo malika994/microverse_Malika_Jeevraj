@@ -26,3 +26,8 @@ INSTRUCTIONS:
 
 // Once you have read the above messages, you can delete all comments. 
 "use strict";
+
+
+```diff
+- This line will be highlighted in red
++ This line will be highlighted in green
