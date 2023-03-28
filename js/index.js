@@ -31,3 +31,5 @@ INSTRUCTIONS:
 ```diff
 - This line will be highlighted in red
 + This line will be highlighted in green
+This is a paragraph with some <mark>highlighted text</mark>.
+
